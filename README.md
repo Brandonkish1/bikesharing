@@ -55,4 +55,6 @@ There are more subscribers than customers. Subscribing to the service could be m
 ## Summary
 In New York City the Citibike bike sharing service seems to be used the most by who like to bike for their daily commute. 
 
-Since the ultimate goal is to create a bike sharing service in Des Moines Iowa additional visualizations should maybe compare New York to Des Moines. One visualization may be a map of Des Moines public transit to start looking at the best places for bike locations. Another useful visualization may be to a comparison of number of bikes and population in New York to get an idea of how many bikes would be needed. 
+Since the ultimate goal is to create a bike sharing service in Des Moines Iowa additional visualizations should maybe compare New York to Des Moines. One visualization may be a map of Des Moines public transit to start looking at the best places for bike locations. 
+
+Another useful visualization may be to a comparison of number of bikes and population in New York to get an idea of how many bikes would be needed. 

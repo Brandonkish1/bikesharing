@@ -7,7 +7,44 @@
 
 ## Results
 
-!()[]
+####
+
+![1_Checkout_Time_by_Users.png](https://github.com/Brandonkish1/bikesharing/blob/main/Images/1_Checkout_Time_by_Users.png)
+
+
+####
+
+![]()
+
+
+####
+
+![]()
+
+
+####
+
+![]()
+
+
+####
+
+![]()
+
+
+####
+
+![]()
+
+
+####
+
+![]()
+
+
+####
+
+![]()
 
 
 
